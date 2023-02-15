@@ -1,0 +1,210 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    
+
+}
+img{
+    width: 1349px;
+    height: 331px;
+    margin-top: 50px;
+
+}
+.gym-logo{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: -200px;
+}    
+.gym-logo img{
+    width: 150px;
+    height: 150px;
+    
+}
+ul{
+
+    font-size: 1em;  
+    margin-top: -300px;
+    margin-left: 500px;
+}
+li{
+    list-style: none;
+    display: inline-block;
+    font-family: sans-serif;
+    margin: 2px;
+    padding-left: 20px;
+}
+ul li a{
+    text-decoration: none;
+    color: white;
+}
+ul li a:hover{
+    color: rgb(189, 84, 141);
+    
+}
+ul li a:active{
+    color: black;
+    background-color: rgb(139, 46, 46);
+}
+
+    
+
+.belt{
+    border: 1px solid rgb(221, 0, 0);
+    background-color: rgb(221, 0, 0);
+    margin-top: -130px;
+    padding-top: 10px; 
+    padding-bottom: 20px;
+}
+.belt p{
+    font-size: 1em;
+    color: white;
+    margin-left: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.space{
+    margin-left: 200px;
+}
+.links{
+    font-size: 1.5em;
+    margin-left: 1050px;
+    margin-top: -40px;
+    gap: 10px;
+
+}
+.never{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2em;
+    margin-top: 550px;
+    margin-left: 400px;
+    font-style: italic;
+}
+.motiv{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -30px;
+    font-size: 1.5em;
+    text-align:center;
+}
+.btn{
+    margin-left: 600px;
+    margin-right: 600px;
+    border: 1px solid rgb(221, 0, 0);
+    border-radius: 10px;
+    background-color: rgb(221, 0, 0);
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn a{
+    color: white;
+    text-decoration: none;
+}
+.btn a :hover{
+    color: black;
+
+}
+.png{
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 150px;
+}
+.coaches{
+    margin-left: 50px;
+    margin-top: 0px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+}
+.coach{
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+}
+.png2{
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-top: px;
+    margin-left:  390px;
+}
+.coaches2{
+    margin-left: 470px;
+    margin-top: -60px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+
+}
+.coach2{
+    margin-left: 470px;
+    margin-top: -52px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.png3{
+    width: 70px;
+    height: 70px;
+    border: 2px solid black;
+    border-radius: 50px;
+    margin-top: px;
+    margin-left:  370px;
+}
+.coaches3{
+    margin-left: 950px;
+    margin-top: -60px;
+    color: red;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2em;
+
+}
+.coach3{
+    margin-left: 950px;
+    margin-top: -52px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.division{
+    display: flex;
+    justify-content: space-around;
+}
+.fitness{
+    width: 334px;
+    height: 300px;
+    
+}
+.crossfit{
+    width: 334px;
+    height: 300px;
+    
+}
+.cardio{
+    width: 334px;
+    height: 300px;
+    
+}
+.bodybuilding{
+    width: 334px;
+    height: 300px;
+    
+}
+
+.text{
+    display: flex;
+    gap: 200px;
+    margin-left: 23px;
+    margin-top: -120px;
+    justify-content: center;
+    font-family: sans-serif;
+    font-weight: 800;
+    font-style: italic;
+    font-size: 30px;
+    
+}
+.text a{
+    text-decoration: none;
+    color: white;
+}
+.text a:hover{
+    color: chocolate;
+}
